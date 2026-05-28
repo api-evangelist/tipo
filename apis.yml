@@ -1,0 +1,32 @@
+aid: tipo
+name: TIPO
+description: "Taiwan patent search system api"
+url: https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Patent"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Patent
+  - Public APIs
+apis:
+  - name: TIPO
+    description: "Taiwan patent search system api"
+    humanURL: https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00
+    baseURL: https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00
+    tags:
+      - Patent
+    properties:
+      - type: Documentation
+        url: https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00
+common:
+  - type: Website
+    url: https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
