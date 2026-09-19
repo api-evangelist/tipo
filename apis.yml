@@ -33,6 +33,9 @@ x-category: "Patent"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
+  - Patents
+  - Public APIs
+tags_raw:
   - Patent
   - Public APIs
 apis:
@@ -41,6 +44,8 @@ apis:
     humanURL: https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00
     baseURL: https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00
     tags:
+      - Patents
+    tags_raw:
       - Patent
     properties:
       - type: Documentation
