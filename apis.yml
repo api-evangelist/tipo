@@ -42,7 +42,6 @@ apis:
   - name: TIPO
     description: "Taiwan patent search system api"
     humanURL: https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00
-    baseURL: https://tiponet.tipo.gov.tw/Gazette/OpenData/OD/OD05.aspx?QryDS=API00
     tags:
       - Patents
     tags_raw:
